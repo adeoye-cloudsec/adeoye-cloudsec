@@ -19,7 +19,7 @@ I started my journey into cybersecurity recently, I am currently focusing on lin
 ## Projects
 | Project                     | Description                          | Link                         |
 |------------------------------|--------------------------------------|------------------------------|
-| Automated Log Analysis Script     | Detects failed login attempts        | [Lightweight SOC Project](https://github.com/adeoye-cloudsec/-Lightweight-SOC-Project/tree/main)
+| Automated Log Analysis Script     | Detects failed login attempts        | [Lightweight SOC Project](https://github.com/adeoye-cloudsec/-Lightweight-SOC-Project/tree/main) [Log Monitoring and Exploitation Detection Lab](https://github.com/adeoye-cloudsec/Log-Monitoring-and-exploitation-detection-lab)
 | Home Network with Packet Tracer   | Highlights suspicious log activity  | 
 
 
